@@ -2,7 +2,7 @@
 
 // claude-code-pathfix
 // PreToolUse hook: transparently converts Windows paths to POSIX in Bash commands
-// https://github.com/fnrhombus/claude-code-pathfix
+// https://github.com/fnclaude/pathfix
 
 import { runHook, updateInput } from "@fnrhombus/claude-code-hooks";
 

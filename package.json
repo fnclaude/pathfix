@@ -28,12 +28,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fnrhombus/claude-code-pathfix.git"
+    "url": "git+https://github.com/fnclaude/pathfix.git"
   },
   "bugs": {
-    "url": "https://github.com/fnrhombus/claude-code-pathfix/issues"
+    "url": "https://github.com/fnclaude/pathfix/issues"
   },
-  "homepage": "https://github.com/fnrhombus/claude-code-pathfix#readme",
+  "homepage": "https://github.com/fnclaude/pathfix#readme",
   "scripts": {
     "build": "tsup",
     "typecheck": "tsc --noEmit",

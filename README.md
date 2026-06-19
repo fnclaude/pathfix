@@ -144,7 +144,7 @@ The prefix is stripped before execution — the command runs as `somecommand C:\
 
 ## Performance
 
-The hook is a tiny Node.js script built on [`@fnrhombus/claude-code-hooks`](https://github.com/fnrhombus/claude-code-hooks), a strongly-typed wrapper for the Claude Code hook API. It starts in under 20ms — compared to 200-500ms for hooks that spawn a Bash subshell ([#34457](https://github.com/anthropics/claude-code/issues/34457)). You won't notice it's there.
+The hook is a tiny Node.js script built on [`@fnrhombus/claude-code-hooks`](https://github.com/fnclaude/hooks), a strongly-typed wrapper for the Claude Code hook API. It starts in under 20ms — compared to 200-500ms for hooks that spawn a Bash subshell ([#34457](https://github.com/anthropics/claude-code/issues/34457)). You won't notice it's there.
 
 ## How it works
 
